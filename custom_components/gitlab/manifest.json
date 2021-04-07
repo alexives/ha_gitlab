@@ -1,0 +1,9 @@
+{
+  "codeowners": ["@alexives"],
+  "config_flow": true,
+  "dependencies": [],
+  "documentation": "https://github.com/alexives/ha_gitlab",
+  "domain": "gitlab",
+  "name": "GitLab",
+  "requirements": []
+}
